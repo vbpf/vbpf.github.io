@@ -4,11 +4,10 @@
 
 layout: home
 ---
-The Project
-===========
-
 *eBPF* is a machine-language that executes inside the Linux kernel.
 
 *PREVAIL* is a new, abstract-interpetation based verifier, that is simple, scalable, and is capable of handling loops of arbitrary number of iterations.
 
 ![blowup](assets/plot.png){: width=200px ; float=left; }
+
+You can find more details in the [PLDI paper](prevail-paper.pdf).
