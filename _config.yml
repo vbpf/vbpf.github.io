@@ -16,10 +16,10 @@
 title: "PREVAIL: a new eBPF verifier"
 email: prevail.ebpf.verifier@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PREVAIL is a new, abstract-interpretation based, verifier for eBPF programs.
+  PREVAIL is a new verifier for eBPF programs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: prevail-ebpf-verifier
+twitter_username: prevail
 github_username:  vbpf
 
 # Build settings
