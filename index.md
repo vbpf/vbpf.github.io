@@ -10,4 +10,4 @@ layout: home
 
 ![blowup](assets/plot.png){: width=200px ; float=left; }
 
-You can find more details in the [PLDI paper](prevail-paper.pdf).
+You can find more details in the [PLDI paper](assets/prevail-paper.pdf).
