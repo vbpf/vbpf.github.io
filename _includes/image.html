@@ -1,0 +1,10 @@
+<div>
+{% for author in site.authors %}
+<div class="profile">
+<figure>
+    <img src="/assets/img/{{ author.image }}" alt="{{ author.name }}" class="profile-img">
+    <figcaption>{{ author.name }}</figcaption>
+</figure>
+</div>
+{% endfor %}
+</div>

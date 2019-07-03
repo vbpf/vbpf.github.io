@@ -10,4 +10,6 @@ layout: home
 
 *PREVAIL* is a new verifier that is **simple**, **scalable**, and can handle loops of arbitrary number of iterations. The verifier is based on the theory of abstract-interpetation.
 
-You can find more details in the [PLDI paper](assets/prevail-paper.pdf).
+* Source code: [github.com/vbpf/ebpf-verifier](https://www.github.com/vbpf/ebpf-verifier)
+* Benchmark: [github.com/vbpf/ebpf-samples](https://www.github.com/vbpf/ebpf-samples)
+* You can find more details in the [PLDI paper](assets/prevail-paper.pdf)

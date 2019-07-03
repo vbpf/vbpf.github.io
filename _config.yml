@@ -22,6 +22,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prevail
 github_username:  vbpf
 
+collections:
+  - authors
+
 # Build settings
 markdown: kramdown
 theme: minima
