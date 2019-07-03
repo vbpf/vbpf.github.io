@@ -1,6 +1,6 @@
 ---
-name: Arie Gurfinkle
+name: Arie Gurfinkel
 image: arie.png
 affiliation: University of Wateloo
-webpage: 
+webpage: https://arieg.bitbucket.io
 ---

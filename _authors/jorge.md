@@ -2,5 +2,5 @@
 name: Jorge A. Navas
 image: jorge.png
 affiliation: SRI International
-webpage: 
+webpage: https://jorgenavas.github.io
 ---

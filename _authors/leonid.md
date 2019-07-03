@@ -2,5 +2,5 @@
 name: Leonid Ryzhyk
 image: leonid.png
 affiliation: VMWare
-webpage: 
+webpage: http://ryzhyk.net
 ---
